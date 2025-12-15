@@ -1,11 +1,9 @@
+# Biblioteca de Livros Digitais
 
-  # Biblioteca de Livros Digitais
+Este é um pacote de código do projeto Biblioteca de Livros Digitais.  
 
-  This is a code bundle for Biblioteca de Livros Digitais. The original project is available at https://www.figma.com/design/ZHujsZ2JsXF7Hm9BLf56Uc/Biblioteca-de-Livros-Digitais.
+## Executando o projeto
 
-  ## Running the code
+Execute `npm i` para instalar as dependências.
 
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
-  
+Execute `npm run dev` para iniciar o servidor de desenvolvimento.
